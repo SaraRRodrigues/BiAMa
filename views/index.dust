@@ -1,0 +1,9 @@
+{>"layout" /}
+
+{<body}
+	{#User}
+		<div>
+			{name}
+		</div>
+	{/User}
+{/body}

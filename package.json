@@ -1,0 +1,21 @@
+{
+  "name": "biama",
+  "version": "1.0.0",
+  "description": "BiAMa manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "pg": "^6.4.2",
+    "pg-promise": "^8.2.3"
+  }
+}
